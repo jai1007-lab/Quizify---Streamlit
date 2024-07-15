@@ -78,3 +78,6 @@ Navigate through the generated quiz questions, select answers, and receive immed
 ### Contributing
 
 If you wish to contribute to this project, please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the MIT License.
